@@ -1,1 +1,1 @@
-# rsschool-cv
+https://privetyaolega.github.io/rsschool-cv/cv
