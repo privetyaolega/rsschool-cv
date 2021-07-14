@@ -1,59 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
-.main-header {
-    font-family: "Bebas Neue";
-    font-size: 22px;
-    color: black;
-    background-image: url(https://image.winudf.com/v2/image/Y29tLlBSSVNTSS5XYWxscGFwZXIuQmFja2dyb3VuZC5XaGl0ZUJhY2tncm91bmRXYWxscGFwZXJfc2NyZWVuXzBfMTUyODUwODAxNF8wNjk/screen-0.jpg?fakeurl=1&type=.jpg);
-    background-size: cover;
-    padding: 15px;
-    height: 150px;
-    &__logo {
-        float: right;
-        width: 150px;
-        img {
-            max-width: 100%;
-            max-height: 100%;
-            border-radius: 10%;
-        }
-    }
-    &__info {
-        float: left;
-    }
+body {
+    margin: 0;
+    padding: 0;
 }
 
-.main {
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    padding: 10px;
-}
+.welcome {
 
-.content {
-    font-family: Lato;
-    font-size: 18px;
-    background: linear-gradient(to bottom right, white, rgb(224, 218, 220));
-    li {
-        line-height: 1.5;
-    }
-    h2 {
-        margin-left: 20px;
-    }
-}
-
-.footer {
-    height: 50px;
-    &__logo {
-        float: right;
-        width: 150px;
-        img {
-            max-width: 100%;
-            max-height: 100%;
-        }
-    }
-    &__info {
-        float: left;
-    }
 }
